@@ -1615,7 +1615,7 @@
      "cancelled": false,
      "replacement": false,
      "n": 1,
-     "room": "",
+     "room": "412",
      "time": "8.00–9.35"
     },
     {
@@ -1819,5 +1819,5 @@
    "lessons": []
   }
  },
- "updated": "2026-10-12T10:15+00:00"
+ "updated": "2026-10-12T19:56+00:00"
 }
