@@ -1397,10 +1397,20 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 3,
-     "room": "426",
+     "room": "413",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ДУП.02 Основы проектной деятельности",
+     "teacher": "Зайтунов Р.Б.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 3,
+     "room": "413",
      "time": "11.50–13.25"
     },
     {
@@ -1448,10 +1458,20 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 2,
-     "room": "426",
+     "room": "с/з",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.12 Физическая культура",
+     "teacher": "Ельникова Н.Н.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 2,
+     "room": "с/з",
      "time": "9.45–11.20"
     },
     {
@@ -1468,10 +1488,20 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 4,
-     "room": "426",
+     "room": "321",
+     "time": "13.55–15.30"
+    },
+    {
+     "subject": "ОУП.06 Физика",
+     "teacher": "Лапин А.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 4,
+     "room": "321",
      "time": "13.55–15.30"
     },
     {
@@ -1819,5 +1849,5 @@
    "lessons": []
   }
  },
- "updated": "2026-10-16T03:13+00:00"
+ "updated": "2026-10-16T08:24+00:00"
 }
