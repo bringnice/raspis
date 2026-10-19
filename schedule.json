@@ -1824,7 +1824,7 @@
     {
      "subject": "ОУП.05 Информатика",
      "teacher": "Слобоздина Н.И.",
-     "note": "",
+     "note": "ЛАБ.ЗАНЯТИЕ 1 подгруппа",
      "cancelled": false,
      "replacement": false,
      "n": 2,
@@ -1926,7 +1926,7 @@
     {
      "subject": "ОУП.05 Информатика",
      "teacher": "Слобоздина Н.И.",
-     "note": "",
+     "note": "ЛАБ.ЗАНЯТИЕ 2 подгруппа",
      "cancelled": false,
      "replacement": false,
      "n": 4,
@@ -1947,6 +1947,261 @@
   },
   "2026-10-31": {
    "week": "числитель",
+   "note": "День самостоятельной  подготовки",
+   "lessons": []
+  },
+  "2026-11-02": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "Классный час",
+     "teacher": "Якименко Антон Андреевич",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "228",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": true,
+     "replacement": false,
+     "n": 2,
+     "room": "с/з",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.12 Физическая культура",
+     "teacher": "Ельникова Н.Н.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 2,
+     "room": "с/з",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.06 Физика",
+     "teacher": "Лапин А.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "321",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": true,
+     "replacement": false,
+     "n": 4,
+     "room": "321",
+     "time": "13.55–15.30"
+    },
+    {
+     "subject": "ОУП.06 Физика",
+     "teacher": "Лапин А.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 4,
+     "room": "321",
+     "time": "13.55–15.30"
+    },
+    {
+     "subject": "ОУП.01 Русский язык",
+     "teacher": "Куличева Г.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 5,
+     "room": "223",
+     "time": "15.40–17.15"
+    }
+   ]
+  },
+  "2026-11-03": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ОУП.06 Физика",
+     "teacher": "Лапин А.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "321",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.11 География",
+     "teacher": "Сахарова А.М.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 2,
+     "room": "312",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.13 Основы безопасности и защита Родины",
+     "teacher": "Качурин И.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "305",
+     "time": "11.50–13.25"
+    }
+   ]
+  },
+  "2026-11-04": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ОУП.07 Химия",
+     "teacher": "Бормотова Е.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "412",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.05 Информатика",
+     "teacher": "Слобоздина Н.И.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 2,
+     "room": "222",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.04 Иностранный язык",
+     "teacher": "Сальникова И.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "304",
+     "time": "11.50–13.25"
+    }
+   ]
+  },
+  "2026-11-05": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ДУП.02 Основы проектной деятельности",
+     "teacher": "Зайтунов Р.Б.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "218",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": true,
+     "replacement": false,
+     "n": 2,
+     "room": "416",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.09 История",
+     "teacher": "Саутина С.Э.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 2,
+     "room": "416",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.10 Обществознание",
+     "teacher": "Буленко М.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "401",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.02 Литература",
+     "teacher": "Сазонова В.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "307",
+     "time": "13.55–15.30"
+    }
+   ]
+  },
+  "2026-11-06": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ОУП.09 История",
+     "teacher": "Саутина С.Э.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "412",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.12 Физическая культура",
+     "teacher": "Ельникова Н.Н.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 2,
+     "room": "с/з",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "426",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.05 Информатика",
+     "teacher": "Слобоздина Н.И.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "222",
+     "time": "13.55–15.30"
+    }
+   ]
+  },
+  "2026-11-07": {
+   "week": "знаменатель",
    "note": "День самостоятельной  подготовки",
    "lessons": []
   },
@@ -2114,5 +2369,5 @@
    "lessons": []
   }
  },
- "updated": "2026-10-19T07:20+00:00"
+ "updated": "2026-10-19T14:52+00:00"
 }
