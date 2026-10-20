@@ -1716,17 +1716,17 @@
      "cancelled": true,
      "replacement": false,
      "n": 2,
-     "room": "с/з",
+     "room": "223",
      "time": "9.45–11.20"
     },
     {
-     "subject": "ОУП.12 Физическая культура",
-     "teacher": "Ельникова Н.Н.",
+     "subject": "ОУП.01 Русский язык",
+     "teacher": "Куличева Г.В.",
      "note": "",
      "cancelled": false,
      "replacement": true,
      "n": 2,
-     "room": "с/з",
+     "room": "223",
      "time": "9.45–11.20"
     },
     {
@@ -1746,17 +1746,17 @@
      "cancelled": true,
      "replacement": false,
      "n": 4,
-     "room": "321",
+     "room": "307",
      "time": "13.55–15.30"
     },
     {
-     "subject": "ОУП.06 Физика",
-     "teacher": "Лапин А.А.",
+     "subject": "ОУП.02 Литература",
+     "teacher": "Сазонова В.С.",
      "note": "",
      "cancelled": false,
      "replacement": true,
      "n": 4,
-     "room": "321",
+     "room": "307",
      "time": "13.55–15.30"
     },
     {
@@ -2369,5 +2369,5 @@
    "lessons": []
   }
  },
- "updated": "2026-10-20T08:50+00:00"
+ "updated": "2026-10-20T14:07+00:00"
 }
