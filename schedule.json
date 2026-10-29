@@ -1927,10 +1927,20 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 3,
-     "room": "426",
+     "room": "306",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.02 Литература",
+     "teacher": "Сазонова В.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 3,
+     "room": "306",
      "time": "11.50–13.25"
     },
     {
@@ -2680,5 +2690,5 @@
    "lessons": []
   }
  },
- "updated": "2026-10-29T02:39+00:00"
+ "updated": "2026-10-29T09:22+00:00"
 }
