@@ -1988,10 +1988,20 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 2,
-     "room": "426",
+     "room": "307",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.02 Литература",
+     "teacher": "Сазонова В.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 2,
+     "room": "307",
      "time": "9.45–11.20"
     },
     {
@@ -2008,10 +2018,20 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 4,
-     "room": "426",
+     "room": "223",
+     "time": "13.55–15.30"
+    },
+    {
+     "subject": "ДУП.01 Родной язык и (или) государственный язык республики Российской Федерации",
+     "teacher": "Куличева Г.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 4,
+     "room": "223",
      "time": "13.55–15.30"
     },
     {
@@ -2083,12 +2103,12 @@
     },
     {
      "subject": "ОУП.03 Математика",
-     "teacher": "Медведева Д.В.",
+     "teacher": "Лазарева Н.В. (замена Медведева Д.В.)",
      "note": "",
      "cancelled": false,
      "replacement": false,
      "n": 2,
-     "room": "426",
+     "room": "217",
      "time": "9.45–11.20"
     },
     {
@@ -2690,5 +2710,5 @@
    "lessons": []
   }
  },
- "updated": "2026-10-29T09:22+00:00"
+ "updated": "2026-10-29T16:20+00:00"
 }
