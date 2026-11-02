@@ -2057,7 +2057,7 @@
      "cancelled": false,
      "replacement": false,
      "n": 1,
-     "room": "321",
+     "room": "дистант",
      "time": "8.00–9.35"
     },
     {
@@ -2226,27 +2226,17 @@
      "cancelled": false,
      "replacement": false,
      "n": 1,
-     "room": "228",
+     "room": "",
      "time": "8.00–9.35"
     },
     {
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": true,
+     "cancelled": false,
      "replacement": false,
      "n": 2,
-     "room": "с/з",
-     "time": "9.45–11.20"
-    },
-    {
-     "subject": "ОУП.12 Физическая культура",
-     "teacher": "Ельникова Н.Н.",
-     "note": "",
-     "cancelled": false,
-     "replacement": true,
-     "n": 2,
-     "room": "с/з",
+     "room": "426",
      "time": "9.45–11.20"
     },
     {
@@ -2263,20 +2253,10 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": true,
+     "cancelled": false,
      "replacement": false,
      "n": 4,
-     "room": "321",
-     "time": "13.55–15.30"
-    },
-    {
-     "subject": "ОУП.06 Физика",
-     "teacher": "Лапин А.А.",
-     "note": "",
-     "cancelled": false,
-     "replacement": true,
-     "n": 4,
-     "room": "321",
+     "room": "426",
      "time": "13.55–15.30"
     },
     {
@@ -2710,5 +2690,5 @@
    "lessons": []
   }
  },
- "updated": "2026-11-02T04:31+00:00"
+ "updated": "2026-11-02T13:06+00:00"
 }
