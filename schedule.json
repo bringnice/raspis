@@ -2282,7 +2282,7 @@
    ]
   },
   "2026-11-10": {
-   "week": "знаменатель",
+   "week": "числитель",
    "note": "",
    "lessons": [
     {
@@ -2296,39 +2296,59 @@
      "time": "8.00–9.35"
     },
     {
-     "subject": "ОУП.11 География",
-     "teacher": "Сахарова А.М.",
+     "subject": "ОУП.09 История",
+     "teacher": "Саутина С.Э.",
      "note": "",
      "cancelled": false,
      "replacement": false,
      "n": 2,
-     "room": "312",
+     "room": "223",
      "time": "9.45–11.20"
     },
     {
      "subject": "ОУП.13 Основы безопасности и защита Родины",
      "teacher": "Качурин И.А.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 3,
-     "room": "305",
+     "room": "401",
      "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.10 Обществознание",
+     "teacher": "Буленко М.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 3,
+     "room": "401",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.05 Информатика",
+     "teacher": "Слобоздина Н.И.",
+     "note": "ЛАБ.РАБ. 1 подгруппа",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "",
+     "time": "13.55–15.30"
     }
    ]
   },
   "2026-11-11": {
-   "week": "знаменатель",
+   "week": "числитель",
    "note": "",
    "lessons": [
     {
-     "subject": "ОУП.07 Химия",
-     "teacher": "Бормотова Е.С.",
+     "subject": "ДУП.01 Родной язык и (или) государственный язык республики Российской Федерации",
+     "teacher": "Куличева Г.В.",
      "note": "",
      "cancelled": false,
      "replacement": false,
      "n": 1,
-     "room": "412",
+     "room": "223",
      "time": "8.00–9.35"
     },
     {
@@ -2354,37 +2374,27 @@
    ]
   },
   "2026-11-12": {
-   "week": "знаменатель",
+   "week": "числитель",
    "note": "",
    "lessons": [
     {
-     "subject": "ДУП.02 Основы проектной деятельности",
-     "teacher": "Зайтунов Р.Б.",
+     "subject": "ОУП.08 Биология",
+     "teacher": "Бормотова Е.С.",
      "note": "",
      "cancelled": false,
      "replacement": false,
      "n": 1,
-     "room": "218",
+     "room": "412",
      "time": "8.00–9.35"
     },
     {
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": true,
+     "cancelled": false,
      "replacement": false,
      "n": 2,
-     "room": "416",
-     "time": "9.45–11.20"
-    },
-    {
-     "subject": "ОУП.09 История",
-     "teacher": "Саутина С.Э.",
-     "note": "",
-     "cancelled": false,
-     "replacement": true,
-     "n": 2,
-     "room": "416",
+     "room": "426",
      "time": "9.45–11.20"
     },
     {
@@ -2410,19 +2420,9 @@
    ]
   },
   "2026-11-13": {
-   "week": "знаменатель",
+   "week": "числитель",
    "note": "",
    "lessons": [
-    {
-     "subject": "ОУП.09 История",
-     "teacher": "Саутина С.Э.",
-     "note": "",
-     "cancelled": false,
-     "replacement": false,
-     "n": 1,
-     "room": "412",
-     "time": "8.00–9.35"
-    },
     {
      "subject": "ОУП.12 Физическая культура",
      "teacher": "Ельникова Н.Н.",
@@ -2446,17 +2446,27 @@
     {
      "subject": "ОУП.05 Информатика",
      "teacher": "Слобоздина Н.И.",
-     "note": "",
+     "note": "ЛАБ.ЗАНЯТИЕ 2 подгруппа",
      "cancelled": false,
      "replacement": false,
      "n": 4,
      "room": "222",
      "time": "13.55–15.30"
+    },
+    {
+     "subject": "ОУП.10 Обществознание",
+     "teacher": "Буленко М.В.",
+     "note": "",
+     "cancelled": true,
+     "replacement": false,
+     "n": 5,
+     "room": "",
+     "time": "15.40–17.15"
     }
    ]
   },
   "2026-11-14": {
-   "week": "знаменатель",
+   "week": "числитель",
    "note": "День самостоятельной  подготовки",
    "lessons": []
   },
@@ -2515,6 +2525,185 @@
      "time": "15.40–17.15"
     }
    ]
+  },
+  "2026-11-17": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ОУП.06 Физика",
+     "teacher": "Лапин А.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "321",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.11 География",
+     "teacher": "Сахарова А.М.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 2,
+     "room": "312",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.13 Основы безопасности и защита Родины",
+     "teacher": "Качурин И.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "305",
+     "time": "11.50–13.25"
+    }
+   ]
+  },
+  "2026-11-18": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ОУП.07 Химия",
+     "teacher": "Бормотова Е.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "412",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.05 Информатика",
+     "teacher": "Слобоздина Н.И.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 2,
+     "room": "222",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.04 Иностранный язык",
+     "teacher": "Сальникова И.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "304",
+     "time": "11.50–13.25"
+    }
+   ]
+  },
+  "2026-11-19": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ДУП.02 Основы проектной деятельности",
+     "teacher": "Зайтунов Р.Б.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "218",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": true,
+     "replacement": false,
+     "n": 2,
+     "room": "416",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.09 История",
+     "teacher": "Саутина С.Э.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 2,
+     "room": "416",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.10 Обществознание",
+     "teacher": "Буленко М.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "401",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.02 Литература",
+     "teacher": "Сазонова В.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "307",
+     "time": "13.55–15.30"
+    }
+   ]
+  },
+  "2026-11-20": {
+   "week": "знаменатель",
+   "note": "",
+   "lessons": [
+    {
+     "subject": "ОУП.09 История",
+     "teacher": "Саутина С.Э.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 1,
+     "room": "412",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.12 Физическая культура",
+     "teacher": "Ельникова Н.Н.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 2,
+     "room": "с/з",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 3,
+     "room": "426",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.05 Информатика",
+     "teacher": "Слобоздина Н.И.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "222",
+     "time": "13.55–15.30"
+    }
+   ]
+  },
+  "2026-11-21": {
+   "week": "знаменатель",
+   "note": "День самостоятельной  подготовки",
+   "lessons": []
   },
   "2026-09-02": {
    "week": "числитель",
@@ -2680,5 +2869,5 @@
    "lessons": []
   }
  },
- "updated": "2026-11-09T10:04+00:00"
+ "updated": "2026-11-09T20:57+00:00"
 }
