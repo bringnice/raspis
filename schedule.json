@@ -2544,10 +2544,20 @@
      "subject": "ОУП.11 География",
      "teacher": "Сахарова А.М.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 2,
-     "room": "312",
+     "room": "426",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 2,
+     "room": "426",
      "time": "9.45–11.20"
     },
     {
@@ -2559,6 +2569,16 @@
      "n": 3,
      "room": "305",
      "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.11 География",
+     "teacher": "Сахарова А.М.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "312",
+     "time": "13.55–15.30"
     }
    ]
   },
@@ -2636,20 +2656,10 @@
      "subject": "ОУП.03 Математика",
      "teacher": "Медведева Д.В.",
      "note": "",
-     "cancelled": true,
+     "cancelled": false,
      "replacement": false,
      "n": 2,
-     "room": "416",
-     "time": "9.45–11.20"
-    },
-    {
-     "subject": "ОУП.09 История",
-     "teacher": "Саутина С.Э.",
-     "note": "",
-     "cancelled": false,
-     "replacement": true,
-     "n": 2,
-     "room": "416",
+     "room": "426",
      "time": "9.45–11.20"
     },
     {
@@ -2682,10 +2692,10 @@
      "subject": "ОУП.09 История",
      "teacher": "Саутина С.Э.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 1,
-     "room": "412",
+     "room": "",
      "time": "8.00–9.35"
     },
     {
@@ -2889,5 +2899,5 @@
    "lessons": []
   }
  },
- "updated": "2026-11-10T11:31+00:00"
+ "updated": "2026-11-10T19:20+00:00"
 }
