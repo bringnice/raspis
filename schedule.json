@@ -2590,11 +2590,31 @@
      "subject": "ОУП.04 Иностранный язык",
      "teacher": "Сальникова И.А.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 3,
-     "room": "304",
+     "room": "222",
      "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.05 Информатика",
+     "teacher": "Слобоздина Н.И.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 3,
+     "room": "222",
+     "time": "11.50–13.25"
+    },
+    {
+     "subject": "ОУП.04 Иностранный язык",
+     "teacher": "Сальникова И.А.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "",
+     "time": "13.55–15.30"
     }
    ]
   },
@@ -2869,5 +2889,5 @@
    "lessons": []
   }
  },
- "updated": "2026-11-10T03:16+00:00"
+ "updated": "2026-11-10T11:31+00:00"
 }
