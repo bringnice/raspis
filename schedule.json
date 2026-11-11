@@ -2385,7 +2385,7 @@
      "replacement": false,
      "n": 1,
      "room": "412",
-     "time": "8.00–9.35"
+     "time": "08.00–9.00"
     },
     {
      "subject": "ОУП.03 Математика",
@@ -2395,7 +2395,7 @@
      "replacement": false,
      "n": 2,
      "room": "426",
-     "time": "9.45–11.20"
+     "time": "9.10–10.10"
     },
     {
      "subject": "ОУП.10 Обществознание",
@@ -2405,7 +2405,7 @@
      "replacement": false,
      "n": 3,
      "room": "401",
-     "time": "11.50–13.25"
+     "time": "10.30–11.30"
     },
     {
      "subject": "ОУП.02 Литература",
@@ -2415,7 +2415,7 @@
      "replacement": false,
      "n": 4,
      "room": "307",
-     "time": "13.55–15.30"
+     "time": "12.00–13.00"
     }
    ]
   },
@@ -2646,10 +2646,20 @@
      "subject": "ДУП.02 Основы проектной деятельности",
      "teacher": "Зайтунов Р.Б.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 1,
-     "room": "218",
+     "room": "307",
+     "time": "8.00–9.35"
+    },
+    {
+     "subject": "ОУП.02 Литература",
+     "teacher": "Сазонова В.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 1,
+     "room": "307",
      "time": "8.00–9.35"
     },
     {
@@ -2899,5 +2909,5 @@
    "lessons": []
   }
  },
- "updated": "2026-11-11T06:55+00:00"
+ "updated": "2026-11-11T14:55+00:00"
 }
