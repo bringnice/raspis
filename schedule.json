@@ -2702,10 +2702,20 @@
      "subject": "ОУП.12 Физическая культура",
      "teacher": "Ельникова Н.Н.",
      "note": "",
-     "cancelled": false,
+     "cancelled": true,
      "replacement": false,
      "n": 2,
-     "room": "с/з",
+     "room": "426",
+     "time": "9.45–11.20"
+    },
+    {
+     "subject": "ОУП.03 Математика",
+     "teacher": "Медведева Д.В.",
+     "note": "",
+     "cancelled": false,
+     "replacement": true,
+     "n": 2,
+     "room": "426",
      "time": "9.45–11.20"
     },
     {
@@ -2812,7 +2822,7 @@
      "cancelled": false,
      "replacement": false,
      "n": 2,
-     "room": "",
+     "room": "223",
      "time": "9.45–11.20"
     },
     {
@@ -2838,7 +2848,7 @@
      "cancelled": false,
      "replacement": false,
      "n": 1,
-     "room": "",
+     "room": "223",
      "time": "8.00–9.35"
     },
     {
@@ -2855,31 +2865,11 @@
      "subject": "ОУП.04 Иностранный язык",
      "teacher": "Сальникова И.А.",
      "note": "",
-     "cancelled": true,
-     "replacement": false,
-     "n": 3,
-     "room": "222",
-     "time": "11.50–13.25"
-    },
-    {
-     "subject": "ОУП.05 Информатика",
-     "teacher": "Слобоздина Н.И.",
-     "note": "",
-     "cancelled": false,
-     "replacement": true,
-     "n": 3,
-     "room": "222",
-     "time": "11.50–13.25"
-    },
-    {
-     "subject": "ОУП.04 Иностранный язык",
-     "teacher": "Сальникова И.А.",
-     "note": "",
      "cancelled": false,
      "replacement": false,
-     "n": 4,
-     "room": "",
-     "time": "13.55–15.30"
+     "n": 3,
+     "room": "304",
+     "time": "11.50–13.25"
     }
    ]
   },
@@ -2894,7 +2884,7 @@
      "cancelled": false,
      "replacement": false,
      "n": 1,
-     "room": "",
+     "room": "412",
      "time": "8.00–9.35"
     },
     {
@@ -3144,5 +3134,5 @@
    "lessons": []
   }
  },
- "updated": "2026-11-17T08:54+00:00"
+ "updated": "2026-11-17T18:10+00:00"
 }
