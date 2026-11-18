@@ -2639,17 +2639,7 @@
      "cancelled": true,
      "replacement": false,
      "n": 1,
-     "room": "307",
-     "time": "8.00–9.35"
-    },
-    {
-     "subject": "ОУП.02 Литература",
-     "teacher": "Сазонова В.С.",
-     "note": "",
-     "cancelled": false,
-     "replacement": true,
-     "n": 1,
-     "room": "307",
+     "room": "",
      "time": "8.00–9.35"
     },
     {
@@ -2675,6 +2665,16 @@
     {
      "subject": "ОУП.02 Литература",
      "teacher": "Сазонова В.С.",
+     "note": "",
+     "cancelled": false,
+     "replacement": false,
+     "n": 4,
+     "room": "307",
+     "time": "13.55–15.30"
+    },
+    {
+     "subject": "ЗАЧЕТ",
+     "teacher": "",
      "note": "",
      "cancelled": false,
      "replacement": false,
@@ -2899,23 +2899,13 @@
     },
     {
      "subject": "ОУП.10 Обществознание",
-     "teacher": "Буленко М.В.",
+     "teacher": "Великаданова М.В.",
      "note": "",
      "cancelled": false,
      "replacement": false,
      "n": 3,
      "room": "401",
      "time": "11.50–13.25"
-    },
-    {
-     "subject": "ОУП.02 Литература",
-     "teacher": "Сазонова В.С.",
-     "note": "",
-     "cancelled": false,
-     "replacement": false,
-     "n": 4,
-     "room": "307",
-     "time": "13.55–15.30"
     }
    ]
   },
@@ -2955,7 +2945,7 @@
     },
     {
      "subject": "ОУП.10 Обществознание",
-     "teacher": "Буленко М.В.",
+     "teacher": "Великаданова М.В.",
      "note": "",
      "cancelled": false,
      "replacement": false,
@@ -3134,5 +3124,5 @@
    "lessons": []
   }
  },
- "updated": "2026-11-18T08:52+00:00"
+ "updated": "2026-11-18T17:47+00:00"
 }
